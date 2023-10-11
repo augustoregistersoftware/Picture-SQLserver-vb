@@ -1,0 +1,10 @@
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Cadastro_Foto\Cadastro_Foto\bin\Debug\Cadastro_Foto.exe.config
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Cadastro_Foto\Cadastro_Foto\bin\Debug\Cadastro_Foto.exe
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Cadastro_Foto\Cadastro_Foto\bin\Debug\Cadastro_Foto.pdb
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Cadastro_Foto\Cadastro_Foto\bin\Debug\Cadastro_Foto.xml
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Cadastro_Foto\Cadastro_Foto\obj\Debug\Cadastro_Foto.Form1.resources
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Cadastro_Foto\Cadastro_Foto\obj\Debug\Cadastro_Foto.Resources.resources
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Cadastro_Foto\Cadastro_Foto\obj\Debug\Cadastro_Foto.vbproj.GenerateResource.Cache
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Cadastro_Foto\Cadastro_Foto\obj\Debug\Cadastro_Foto.exe
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Cadastro_Foto\Cadastro_Foto\obj\Debug\Cadastro_Foto.xml
+c:\users\tomas_edson\documents\visual studio 2013\Projects\Cadastro_Foto\Cadastro_Foto\obj\Debug\Cadastro_Foto.pdb
